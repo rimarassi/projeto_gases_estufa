@@ -1,5 +1,7 @@
 # Análise de Emissões de Gases de Efeito Estufa no Brasil
 
+Este projeto faz parte de um curso da **Alura** sobre análise de dados utilizando a biblioteca **pandas** em Python. Nele, aplicamos técnicas de manipulação e visualização de dados para explorar as emissões de gases de efeito estufa no Brasil.
+
 ## Conteúdo do Projeto
 Este projeto tem como objetivo analisar dados de emissões de gases de efeito estufa no Brasil, com base em dados extraídos do SEEG (Sistema de Estimativas de Emissões de Gases de Efeito Estufa). A análise busca identificar padrões de emissão, setores mais poluentes, variações ao longo dos anos e emissões per capita, proporcionando insights sobre as principais fontes de emissões e suas tendências.
 
